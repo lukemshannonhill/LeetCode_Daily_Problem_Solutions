@@ -7,3 +7,4 @@ I intend to revist each problem at least once to improve upon my intial solution
 | Problem | Initial Solution | Improved Solution | Notes | 
 | --- | --- | --- | --- |
 |      https://leetcode.com/problems/length-of-last-word/   |    [Initial Solution](https://github.com/lukemshannonhill/LeetCode_Daily_Problem_Solutions/blob/master/Easy/Length%20of%20Last%20Word.py)         | --- | To do: Construct a more elegant, one line solution exploiting existing string methods more fully |
+| https://leetcode.com/problems/word-break/ | [Initial Solution](https://github.com/lukemshannonhill/LeetCode_Daily_Problem_Solutions/blob/master/Medium/Word%20%20Break) | --- | I'm certain the optimal solution uses tries. After reviewing tries I'll reattempt this problem. https://en.wikipedia.org/wiki/Trie |
