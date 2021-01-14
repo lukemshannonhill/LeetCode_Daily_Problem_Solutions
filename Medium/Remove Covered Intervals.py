@@ -1,22 +1,39 @@
 # https://leetcode.com/problems/remove-covered-intervals/
 
+# This is my initial solution, which encountered a Time Limit Exceeded error (understandably enough, since it's 
+# a brute force solution). 
+
+# I improved upon this solution day of in order to meet the requirements of the October LeetCoding Challenge.
+
 class Solution:
     def removeCoveredIntervals(self, intervals: List[List[int]]) -> int:
         
         i = intervals
         
-        i.sort(key = lambda x: (x[0], -x[1]))
-                
-        right_so_far = i[0][1]
+        i.sort()
         
-        count = 1
+        # Interval [a,b) is covered by interval [c,d) if and only if c <= a and b <= d.
+        
+        # (a, b) and (c, d)
+        
+        # c <= a
+                        
+        # b <= d
+                
+        to_delete = []
         
         for j in i:
-            
-            if j[1] > right_so_far:
-                
-                right_so_far = j[1]
-                count += 1
-
-        return count
+            for k in i:
+                if k == j:
+                    continue
+                elif k[0] <= j[0] and j[1] <= k[1]:
+                    if j not in to_delete:
+                        to_delete = to_delete + [j]
         
+        final = []
+        
+        for u in intervals:
+            if u not in to_delete:
+                final.append(u)
+            
+        return len(final)
