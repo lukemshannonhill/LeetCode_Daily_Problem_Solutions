@@ -64,5 +64,4 @@ I intend to revist each problem at least once to improve upon my intial solution
 | https://leetcode.com/problems/combine-two-tables | [Initial Solution](https://github.com/lukemshannonhill/LeetCode_Daily_Problem_Solutions/blob/master/db/Easy/combine-two-tables) | --- | Runtime: 302 ms, faster than 94.80% of MySQL online submissions for Combine Two Tables. Memory Usage: 0B, less than 100.00% of MySQL online submissions for Combine Two Tables. | 
 
 
-| https://leetcode.com/problems/two-sum/ | [Initial Solution](
-(https://github.com/lukemshannonhill/LeetCode_Daily_Problem_Solutions/blob/master/Swift/Easy/two_sum.swift) | --- | Runtime: Runtime: 58 ms Memory Usage: 14.4 MB. | 
+| https://leetcode.com/problems/two-sum/ | [Initial Solution](https://github.com/lukemshannonhill/LeetCode_Daily_Problem_Solutions/blob/master/Swift/Easy/two_sum.swift) | --- | Runtime: Runtime: 58 ms Memory Usage: 14.4 MB. | 
