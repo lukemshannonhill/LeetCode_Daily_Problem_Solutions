@@ -72,5 +72,6 @@ I intend to revist each problem at least once to improve upon my intial solution
 |https://leetcode.com/problems/find-pivot-index/| [Initial Solution](https://github.com/lukemshannonhill/LeetCode_Daily_Problem_Solutions/blob/master/Easy/find_pivot_index.py) | --- | Runtime: 324 ms, faster than 16.72% of Python3 online submissions for Find Pivot Index. Memory Usage: 15.3 MB, less than 48.84% of Python3 online submissions for Find Pivot Index. |
 |https://leetcode.com/problems/remove-duplicates-from-sorted-array/| [Initial Solution](https://github.com/lukemshannonhill/LeetCode_Daily_Problem_Solutions/blob/master/Easy/remove-duplicates-from-sorted-array.py) | --- | Runtime 149 ms Beats 15.23% Memory 15.6 MB Beats 9.22% |
 |https://leetcode.com/problems/remove-element/] | [Initial Solution](https://github.com/lukemshannonhill/LeetCode_Daily_Problem_Solutions/blob/master/Easy/remove-element.py) | --- | Runtime 37 ms Beats 44.15% Memory 13.9 MB Beats 48.13% |
+|https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string| [Initial Solution](https://github.com/lukemshannonhill/LeetCode_Daily_Problem_Solutions/blob/master/Easy/find-the-index-of-the-first-occurrence-in-a-string.py) | --- | Runtime 27 ms Beats 88.93% Memory 13.8 MB Beats 50.18% |
 
 
