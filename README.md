@@ -74,4 +74,7 @@ I intend to revist each problem at least once to improve upon my intial solution
 |https://leetcode.com/problems/remove-element/] | [Initial Solution](https://github.com/lukemshannonhill/LeetCode_Daily_Problem_Solutions/blob/master/Easy/remove-element.py) | --- | Runtime 37 ms Beats 44.15% Memory 13.9 MB Beats 48.13% |
 |https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string| [Initial Solution](https://github.com/lukemshannonhill/LeetCode_Daily_Problem_Solutions/blob/master/Easy/find-the-index-of-the-first-occurrence-in-a-string.py) | --- | Runtime 27 ms Beats 88.93% Memory 13.8 MB Beats 50.18% |
 
+|https://leetcode.com/problems/search-insert-position| [Initial Solution](https://github.com/lukemshannonhill/LeetCode_Daily_Problem_Solutions/blob/master/Easy/search-insert-position.py) | --- | Runtime 146 ms Beats 5.3% Memory 14.5 MB Beats 97.73% |
+
+
 
